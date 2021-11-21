@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+heroImage: /images/hero.png
 tagline: Simple and Usuful shellscript
 actions:
   - text: Get Started

@@ -4,10 +4,10 @@ heroImage: /images/hero.png
 tagline: Simple and Usuful shellscript
 actions:
   - text: Get Started
-    link: /overview/
+    link: /ja/overview/
     type: primary
   - text: usage
-    link: /usage/
+    link: /ja/usage/
     type: secondary
 features:
   - title: Simple

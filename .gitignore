@@ -1,5 +1,6 @@
 node_modules
 .temp
+docs
 docs_src/.vuepress/.temp
 docs_src/.vuepress/.temp/internal
 docs_src/.vuepress/.temp/pages

@@ -1,10 +1,13 @@
 node_modules
 .temp
 docs
-docs_src/.vuepress/.temp
-docs_src/.vuepress/.temp/internal
-docs_src/.vuepress/.temp/pages
-.cache
+docs/.vuepress/.temp
+docs/.vuepress/.temp/internal
+docs/.vuepress/.temp/pages
+docs/.vuepress/.temp/pages
+docs/.vuepress/.cache
+docs/.vuepress/dist
+
 
 # General
 .DS_Store

@@ -10,11 +10,11 @@ actions:
     link: /ja/usage/
     type: secondary
 features:
-  - title: Simple
+  - title: シンプルで
     details: わずか3.5kbのインストール/アンインストールが容易なプログラムです。
-  - title: Useful
+  - title: とても便利に
     details: これからは cp や mv コマンドで長いパスを何度も入力する必要はありません。
-  - title: Easy to Use
+  - title: 簡単に使える
     details: 複雑なオプションを指定する必要はなく、ss コマンドだけで OK。
 footer: MIT Licensed | Copyright © 2021-present ontheroadjp
 ---

@@ -3,7 +3,6 @@ module.exports = {
     title: 'Shell Stash',
     description: 'Simple and Usuful shellscript',
     base: '/Shell-Stash/',
-    repo: 'ontheroadjp/Shell-Stash',
     locales: {
         '/': {
             lang: 'en-US',
@@ -18,6 +17,7 @@ module.exports = {
     },
     themeConfig: {
         logo: '/images/hero.png',
+        repo: 'ontheroadjp/Shell-Stash',
         locales: {
             '/': {
                 selectLanguageName: 'English',

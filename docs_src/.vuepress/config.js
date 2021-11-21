@@ -41,7 +41,7 @@ module.exports = {
         docsRepo: 'https://github.com/ontheroadjp/Shell-Stash',
         docsBranch: 'master',
         docsDir: 'docs',
-        editLinkPattern: ':repo/-/edit/:branch/:path',
+        editLinkPattern: ':repo/edit/:branch/:path',
         lastUpdated: 'Last Updated',
     },
 }

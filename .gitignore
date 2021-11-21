@@ -1,5 +1,6 @@
 node_modules
-.tmp
+.temp
+docs_src/.vuepress/.temp
 .cache
 
 # General

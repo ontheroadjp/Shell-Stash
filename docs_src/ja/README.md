@@ -1,17 +1,17 @@
-# Shell Stash
+---
+home: true
+heroImage: https://v1.vuepress.vuejs.org/hero.png
+tagline: Simple and Usuful shellscript
+actionText: Get Started →
+actionLink: /overview/
+#features:
+#- title: Feature 1 Title
+#  details: Feature 1 Description
+#- title: Feature 2 Title
+#  details: Feature 2 Description
+#- title: Feature 3 Title
+#  details: Feature 3 Description
+#footer: Made by foo with ❤️
+---
 
-このスクリプトは、シェルに一時的なファイルやディレクトリの隠し場所を提供します。
-ファイルやディレクトリは、どのディレクトリからでもこのスタッシュに出し入れすることができます。
-
-## 何が便利なのか？
-
-Shell-Stashをインストールすれば、長いパスを指定してmvやcpコマンドを使う必要はありません。
-
-シェルで ``mv`` や ``cp`` コマンドを使用している場合は、それらを使用する代わりに、単に stash に入れてディレクトリを移動し、その後すぐに stash から削除することができます。
-
-しかし、ディレクトリを移動するたびに ``cd`` コマンドを使っていたのでは、Shell-Stashの効果は思ったほどではないかもしれません。
-
-そのような場合は、まずディレクトリ移動のための環境を整えておくとよいでしょう。
-
-
-
+<!-- https://github.com/ycatch/vue-press -->

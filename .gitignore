@@ -1,11 +1,6 @@
 node_modules
 .temp
-docs
-docs/.vuepress/.temp
-docs/.vuepress/.temp/internal
-docs/.vuepress/.temp/pages
-docs/.vuepress/.temp/pages
-docs/.vuepress/.cache
+.cache
 
 
 # General

@@ -14,7 +14,7 @@ module.exports = {
         ['meta', { name: 'twitter:site', content: '@te_ontheroad_jp' }],
         ['meta', { name: 'twitter:title', content: 'Shell Stash' }],
         ['meta', { name: 'twitter:description', content: 'Simple and Useful Shellscript' }],
-        ['meta', { name: 'twitter:image', content: 'https://ontheroadjp.github.io/Shell Stash/images/main.jpg' }],
+        ['meta', { name: 'twitter:image', content: 'https://ontheroadjp.github.io/Shell-Stash/images/main.jpg' }],
     ],
     locales: {
         '/': {

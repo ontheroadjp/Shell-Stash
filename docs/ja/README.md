@@ -16,7 +16,8 @@ features:
     details: これからは cp や mv コマンドで長いパスを何度も入力する必要はありません。
   - title: 簡単に使える
     details: 複雑なオプションを指定する必要はなく、ss コマンドだけで OK。
-footer: MIT Licensed | Copyright © 2021-present ontheroadjp
+footerHtml: true
+footer: '<p><a style="padding: 20px; border-radius: 5px; background-color: rgb(230, 161, 84); color: white; border: 1px solid" href="https://www.buymeacoffee.com/ontheroadjp" target="_blank">Buy me a ☕️ if you like my projects :)</a><br><br>MIT Licensed | Copyright © 2021-present ontheroadjp</p>'
 ---
 
 <!-- https://github.com/ycatch/vue-press -->

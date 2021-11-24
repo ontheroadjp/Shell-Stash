@@ -3,6 +3,19 @@ module.exports = {
     title: 'Shell Stash',
     description: 'Simple and Usuful shellscript',
     base: '/Shell-Stash/',
+    head: [
+        ['link', { rel: 'icon', type: 'image/png', href: '/dammy/images/hero.png' }],
+        ['meta', { name: 'og:url', content: 'https://ontheroadjp.github.com/shell-Stash/' }],
+        ['meta', { name: 'og:type', content: 'website' }],
+        ['meta', { name: 'og:title', content: 'Shell Stash' }],
+        ['meta', { name: 'og:description', content: 'Simple and Useful Shellscript' }],
+        ['meta', { name: 'og:image', content: 'https://ontheroadjp.github.io/Shell-Stash/images/main.jpg' }],
+        ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+        ['meta', { name: 'twitter:site', content: '@te_ontheroad_jp' }],
+        ['meta', { name: 'twitter:title', content: 'Shell Stash' }],
+        ['meta', { name: 'twitter:description', content: 'Simple and Useful Shellscript' }],
+        ['meta', { name: 'twitter:image', content: 'https://ontheroadjp.github.io/Shell Stash/images/main.jpg' }],
+    ],
     locales: {
         '/': {
             lang: 'en-US',

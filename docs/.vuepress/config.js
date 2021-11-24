@@ -28,6 +28,13 @@ module.exports = {
             description: 'Simple and Usuful shellscript',
         },
     },
+    plugins: [
+        [
+            '@vuepress/plugin-google-analytics', {
+                id: 'G-XXXXXXXXXX',
+            },
+        ],
+    ],
     themeConfig: {
         logo: '/images/hero.png',
         repo: 'ontheroadjp/Shell-Stash',

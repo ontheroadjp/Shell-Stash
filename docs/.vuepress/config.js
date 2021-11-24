@@ -30,8 +30,8 @@ module.exports = {
     },
     plugins: [
         [
-            '@vuepress/plugin-google-analytics', {
-                id: 'G-XXXXXXXXXX',
+            '@vuepress/plugin-google-analytics@next', {
+                id: 'G-JE4J1DNKHN',
             },
         ],
     ],
